@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @t3chnicalc0der
 - 👀 I’m interested in Commercial software projects
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on large projects implementing javascript and python.
+- 🌱 I’m currently learning Kubernetes
+- 💞️ I’m looking to collaborate on large projects implementing Devops practises.
 - 📫 How to reach me  www.linkedin.com/in/zakee-akhtar-9b2b7b172
 
 <!---
